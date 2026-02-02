@@ -1,13 +1,14 @@
-﻿
+﻿/* Styling for Title Bar*/
 .yearbook-title {
-    background-color: darkblue; 
+    background-color: darkblue;
     color: gold;
     font-size: 3rem;
     font-weight: 800;
     padding: 20px;
     border-radius: 10px;
-    text-align:center;
+    text-align: center;
 }
+/* Styling for Cards */
 .card img {
     height: 250px;
     width: 250px;
